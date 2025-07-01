@@ -2,6 +2,8 @@
 
 A visually polished **set of PowerPoint slides** created for a school competition, aimed at promoting a Polish technical high school through attractive graphics and clear narration. Although this presentation does not contain data analysis, it highlights my **design sense**, **presentation skills**, and **ability to tell stories with data** — important skills in the work of an analyst.
 
+>  This presentation is a bonus, without analytics.
+
 ---
 
 ## 🛠️ What it presents
@@ -16,11 +18,6 @@ A visually polished **set of PowerPoint slides** created for a school competitio
 
 - Open `School_Promo_Presentation.pptx` or PDF in the `/presentation` folder
 - Take a look at the **“Design Showcase” section** — that's where I've concentrated the most interesting slides
-
----
-
-> ### Bonus: School promotional presentation  
-> A presentation of my skills in creating coherent visual narratives — useful in dashboard summaries, stakeholder reports, or slide presentations.
 
 ---
 
