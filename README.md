@@ -16,7 +16,7 @@ A visually polished **set of PowerPoint slides** created for a school competitio
 
 ## 📂 How to view
 
-- Open `School_Promo_Presentation.pptx` or PDF in the `/presentation` folder
+- Open `School_Promo_Presentation.pptx` to view all of the slide transitions
 - Take a look at the **“Design Showcase” section** — that's where I've concentrated the most interesting slides
 
 ---
