@@ -2,7 +2,7 @@
 
 A visually polished **set of PowerPoint slides** created for a school competition, aimed at promoting a Polish technical high school through attractive graphics and clear narration. Although this presentation does not contain data analysis, it highlights my **design sense**, **presentation skills**, and **ability to tell stories with data** — important skills in the work of an analyst.
 
->  This presentation is a bonus, without analytics.
+>  This presentation is designed to be presented with a script, without analytics.
 
 ---
 
